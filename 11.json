@@ -35,7 +35,7 @@
     "taskData": {
         "tag": "zhuanhuafei",
         "common": {
-            "url": "【这里替换成你自己的tb.txt Raw地址】"
+            "url": "【https://raw.githubusercontent.com/ryytnm/-tb-task/main/tb.txt】"
         },
         "赚话费": {
             "type": "task1",
