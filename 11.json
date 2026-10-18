@@ -1,0 +1,76 @@
+{
+    "activity": {
+        "tip": "全部运行完再看任务完成度\n---------------\n一个手机不能运行超过三个账号\n---------------\n点击开始任务自动运行\n",
+        "vvv": 1,
+        "shortcut": "https://www.icloud.com/shortcuts/8c366a3041bb4b77bb08a74600c34009",
+        "list": [
+            "❤️开始11任务❤️",
+            "超级红包入口",
+            "更多羊毛关注公众号：认养一头牛马"
+        ],
+        "mapping": {
+            "❤️购物车红包": {
+                "url": "taobao://m.tb.cn/h.j1GOhZX"
+            },
+            "点我下载农场捷径": {
+                "url": "https://www.icloud.com/shortcuts/8e7d3ab19ef94cd38965d2f5c6484ddc"
+            },
+            "更多羊毛关注公众号：认养一头牛马": {
+                "url": "weixin://openurl?u=https%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fprofile_ext%3Faction%3Dhome%26__biz%3DMzE5ODEzMjA2NQ%3D%3D"
+            },
+            "超级红包入口": {
+                "url": "taobao://m.tb.cn/h.j1Gpu7T"
+            },
+            "❤️开始11任务❤️": {
+                "type": "task",
+                "key": [
+                    "赚话费"
+                ]
+            }
+        },
+        "taskList": [
+            "赚话费"
+        ]
+    },
+    "taskData": {
+        "tag": "zhuanhuafei",
+        "common": {
+            "url": "【这里替换成你自己的tb.txt Raw地址】"
+        },
+        "赚话费": {
+            "type": "task1",
+            "endpage": "taobao://m.tb.cn/h.j1Gpu7T",
+            "main": "taobao://m.tb.cn/h.j1Gpu7T",
+            "endMessage": "任务结束",
+            "task": {
+                "tag": "zhuanhuafei",
+                "scheme": "taobao://m.taobao.com/tbopen/index.html?h5Url=",
+                "baseurl": "://market.m.taobao.com/app/tbsearchwireless-pages/tao-gold-srp-task-pop/index?deliveryId=占位参数1&sceneId=8917&q=iphone",
+                "wait": 15,
+                "wait2": "",
+                "param": {
+                    "商品定位": [
+                        "nike",
+                        "anta",
+                        "adidas",
+                        "chanel",
+                        "dior",
+                        "biotherm",
+                        "oppo"
+                    ]
+                },
+                "before": [],
+                "item": [
+                    "100340","100340","100340","100340","100340","100340","100340","100340","100340","100340",
+                    "100453","100453","100453","100453","100453","100453","100453","100453","100453","100453",
+                    "100492","100492","100492","100492","100492","100492","100492","100492","100492","100492",
+                    "107016","107016","107016","107016","107016",
+                    "100531","99673","106363","99889","106588","101866","107544","99672",
+                    "100454","100454","100454","100454","100454",
+                    "106513","106513","106513","106513","106513",
+                    "106595","99720","90782"
+                ]
+            }
+        }
+    }
+}
